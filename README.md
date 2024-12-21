@@ -13,8 +13,9 @@
 
 ## Supported Devices(planned for initial release ) 
 - Nun Chuck
+- Wii Classic Controller
 - GX16 2 pin foot pedal
-- 5v LEDs eith for ir LEDs or color for fancy stuff .
+- 5v LEDs eith for IR LEDs or color LEDs for fancy stuff .
 
 ## Planned Features 
 - Nun Chuck can be Mouse mode or Gamepad mode.
