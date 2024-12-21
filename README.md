@@ -30,6 +30,7 @@
   - C is Start (#1)
   - Z is Select (#5)
   - Joystick is Joystick
+    
   Mouse Mode
   - C is Mouse 2
   - Z is Mouse 3
